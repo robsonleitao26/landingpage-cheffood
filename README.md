@@ -1,9 +1,9 @@
-# Projeto simples landingpage com animações
+# Projeto Landingpage com React
 
 # Skills
 
 - React;
 - CSS;
 
-Imagem:
-![alt text](image.png)
+Imagem do projeto:
+![cheffood](image.png)
