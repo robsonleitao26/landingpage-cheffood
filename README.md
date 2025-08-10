@@ -4,6 +4,7 @@
 
 - React;
 - CSS;
+- JS
 
 Imagem do projeto:
 ![cheffood](image.png)
