@@ -60,7 +60,7 @@ export function Index() {
         <a href="#" className="explore-btn">
           Explore menu 
           <span className='arrow'>
-            <i class="ri-arrow-right-line"></i>
+            <i className="ri-arrow-right-line"></i>
           </span>
         </a>
 
